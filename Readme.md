@@ -46,7 +46,8 @@
 |---------|-------------|------|
 | [Car Rental Website](http://reydrive.pythonanywhere.com/) | Full-stack car rental platform | Django, Bootstrap |
 | [IMDB Scraper](https://github.com/Rey-han-24/Top10-Movie-scraper) | Automated movie data collection | Python, Selenium |
-| [Fortress Siege](link) | Tower defense strategy game | C++ |
+| [Fortress Siege](https://github.com/Rey-han-24/FortressSiege) | Tower defense strategy game | Java Swing |
+| [Chatting web Application]() | Chatting Application with websockets and rooms Feature | React, Django |
 
 ---
 
