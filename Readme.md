@@ -44,7 +44,7 @@
 ## 🔥 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Car Rental Website](link) | Full-stack car rental platform | Django, Bootstrap |
+| [Car Rental Website](http://reydrive.pythonanywhere.com/) | Full-stack car rental platform | Django, Bootstrap |
 | [IMDB Scraper](link) | Automated movie data collection | Python, Selenium |
 | [Fortress Siege](link) | Tower defense strategy game | C++ |
 
