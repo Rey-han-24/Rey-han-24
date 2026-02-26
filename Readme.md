@@ -1,8 +1,11 @@
-# Hi there, I'm Rehan
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=170&section=header&text=Muhammad%20Rehan%20Butt&fontSize=50" />
+</p>
 
-> **Software Engineering Student @ SZABIST | Aspiring Open Source Contributor (LFX/GSoC 2026)**
-
----
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ##  About Me
 -  **Education:** 3rd Year Software Engineering Student at SZABIST Islamabad.
