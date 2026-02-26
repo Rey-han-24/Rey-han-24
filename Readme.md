@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rehan-butt-744620323"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:reyhanbutt18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ##  About Me
@@ -53,7 +53,3 @@
 | [Chatting web Application](https://github.com/Rey-han-24/chat-app-frontend) | Chatting Application with websockets and rooms Feature | React, Django |
 
 ---
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-butt-744620323)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reyhanbutt18@gmail.com)
