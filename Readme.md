@@ -9,8 +9,6 @@
 
 ##  About Me
 -  **Education:** 3rd Year Software Engineering Student at SZABIST Islamabad.
--  **Current Focus:** Contributing to the **Kubernetes (CNCF)** ecosystem.
--  **Goals:** Securing an LFX or GSoC 2026 mentorship.
 -  **Learning:** Scalable Architecture with **Next.js** and **Node.js**.
 -  **Reach me:** [reyhanbutt18@gmail.com](mailto:reyhanbutt18@gmail.com)
 
