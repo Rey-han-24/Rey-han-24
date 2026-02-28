@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Rehan+Butt;Full-Stack+Engineer;Cybersecurity+Specialist;Building+the+Future+at+Bunby" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Rehan+Butt;Full-Stack+Engineer;Software+Engineering;Building+the+Future+at+Bunby" alt="Typing Animation" />
 
   <p align="center">
     <strong>3rd Year Software Engineering @ SZABIST Islamabad</strong>
@@ -15,7 +15,6 @@
 ### 🚀 Executive Summary
 I specialize in building **scalable, secure, and architecturally sound** web applications. My approach combines the rapid development cycles of **Next.js** with the robust security principles of a **Google Certified Cybersecurity Professional**.
 
-- 🛠️ **Founder @ Bunby (Stealth):** Architecting a private SaaS platform focused on high-concurrency performance.
 - 🛡️ **Security-First:** Implementing Zero Trust and OWASP standards in every line of code.
 - 📈 **Philosophy:** "Move fast, but don't break the security."
 
