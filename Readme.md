@@ -17,6 +17,7 @@ I specialize in building **scalable, secure, and architecturally sound** web app
 
 - 🛡️ **Security-First:** Implementing Zero Trust and OWASP standards in every line of code.
 - 📈 **Philosophy:** "Move fast, but don't break the security."
+- 🚀 **OpenSurce:** Actively working and contributing to opensource 
 
 ---
 
