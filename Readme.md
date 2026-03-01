@@ -44,7 +44,6 @@ I specialize in building **scalable, secure, and architecturally sound** web app
 *What I'm currently pushing to production:*
 
 * **Bunby Core:** Developing the authentication and database schema for a multi-tenant SaaS.
-* **Open Source:** Contributing to **Django CMS** (refining UI labels and permission logic).
 * **Security Labs:** Researching automated vulnerability scanning for Next.js deployments.
 
 <div align="center">
