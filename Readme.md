@@ -1,15 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Rehan+Butt;Full-Stack+Engineer;Software+Engineering;Building+the+Future+at+Bunby" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Rehan+Butt;Web+Developer;Software+Engineer;Building+the+Future+at+Bunby" alt="Typing Animation" />
 
   <p align="center">
     <strong>3rd Year Software Engineering @ SZABIST Islamabad</strong>
   </p>
 
-  <a href="mailto:reyhanbutt18@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> 
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>   </a>
-  <a href="https://rehan.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>   </a>
+  <a href="mailto:reyhanbutt18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://rehan.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 ---
