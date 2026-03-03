@@ -5,9 +5,11 @@
     <strong>3rd Year Software Engineering @ SZABIST Islamabad</strong>
   </p>
 
-  <a href="mailto:reyhanbutt18@gmail.com"><img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://rehan.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:reyhanbutt18@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>   </a>
+  <a href="https://rehan.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>   </a>
 </div>
 
 ---
