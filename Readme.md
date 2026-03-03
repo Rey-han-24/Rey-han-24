@@ -40,15 +40,16 @@ I specialize in building **scalable, secure, and architecturally sound** web app
 
 ---
 
-### 📂 Active Sprints
-*What I'm currently pushing to production:*
+### 🌐 Open Source Contributions
+*Proud to have contributed to some of the industry's most impactful projects:*
 
-* **Bunby Core:** Developing the authentication and database schema for a multi-tenant SaaS.
-* **Security Labs:** Researching automated vulnerability scanning for Next.js deployments.
+<p align="left">
+  <a href="https://github.com/kubernetes/kubernetes"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+  <a href="https://github.com/django-cms/django-cms"><img src="https://img.shields.io/badge/Django_CMS-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django CMS"/></a>
+  <a href="https://github.com/DeepSourceCorp"><img src="https://img.shields.io/badge/DeepSource-323539?style=for-the-badge&logo=deepsource&logoColor=white" alt="DeepSource"/></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rey-han-24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="60%" />
-</div>
+> **Impact:** Refining UI permission logic in Django CMS and exploring SIG-Node enhancements in the Kubernetes ecosystem.
 
 ---
 
