@@ -40,6 +40,7 @@ I specialize in building **scalable, secure, and architecturally sound** web app
 
 ---
 
+
 ### 🌐 Open Source Contributions
 *Proud to have contributed to some of the industry's most impactful projects:*
 
@@ -50,6 +51,7 @@ I specialize in building **scalable, secure, and architecturally sound** web app
 </p>
 
 > **Impact:** Refining UI permission logic in Django CMS and exploring SIG-Node enhancements in the Kubernetes ecosystem.
+
 
 ---
 
